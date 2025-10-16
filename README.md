@@ -1,2 +1,2 @@
 # NYU-Data-Bootcamp-Midterm-Project
-My midterm project for Data Bootcamp class.
+My midterm project for the Data Bootcamp class.
