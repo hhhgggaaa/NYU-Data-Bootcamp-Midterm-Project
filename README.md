@@ -1,2 +1,2 @@
 # NYU-Data-Bootcamp-Midterm-Project
-My midterm project for the Data Bootcamp class.
+This project analyzes the attractiveness of New York’s healthy fast-casual restaurant market using Yelp data, macroeconomic indicators from FRED, financial data from Yahoo Finance, and Google Trends. Through exploratory visualizations, correlation analysis, and Porter’s Five Forces framework, it evaluates consumer demand, supplier power, substitution threats, and industry competition. The goal is to provide data-driven insights into market dynamics and help inform strategic entry decisions in the city’s growing healthy dining sector.
